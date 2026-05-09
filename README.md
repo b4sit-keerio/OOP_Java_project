@@ -80,7 +80,7 @@ Many beginner programmers struggle to identify simple but common coding mistakes
 
 ## 🔗 GitHub Repository
 
-📁 [https://github.com/hussainb05/OOP_Java_Project](https://github.com/hussainb05/OOP_Java_Project)
+📁 https://github.com/b4sit-keerio/OOP_Java_project
 
 ---
 
