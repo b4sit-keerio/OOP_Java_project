@@ -50,7 +50,7 @@ Many beginner programmers struggle to identify simple but common coding mistakes
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/hussainb05/OOP_Java_Project.git
+   git clone https://github.com/b4sit-keerio/OOP_Java_project
    ```
 
 2. **Navigate to the project folder:**
